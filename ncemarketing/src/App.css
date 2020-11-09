@@ -1,9 +1,10 @@
 .App {
   text-align: center;
+  font-family: 'Goldman', cursive;
 }
 
 .header1-main {
-    background-color: rgba(0, 0, 0, .6);
+    background-color: #38302E;
     height: 100px;
     width: 100%;
     overflow: hidden;
@@ -28,7 +29,7 @@
 }
 
 .footer-main {
-    background-color: rgba(0, 0, 0, .6);
+    background-color: #38302E;
     position: absolute;
     color: white;
     left: 0;
@@ -41,7 +42,7 @@
     justify-content: space-between;
 }
 
-.footer-main p {
+.copyright {
     padding: 1em;
 }
 
